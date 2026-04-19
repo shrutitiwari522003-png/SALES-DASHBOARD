@@ -30,6 +30,6 @@ Shows revenue trends across quarters.  A peak in Q3 indicates strong performance
 Displays month-wise profit trends.  
 Fluctuations indicate variations in profitability across different months.
 
-## 🎯 Business Value
+## Business Value
 This dashboard provides a comprehensive view of sales performance across categories, products, locations, and time.  
 It helps identify top-performing areas, understand growth trends, and supports data-driven decision-making.
